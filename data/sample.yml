@@ -1,0 +1,15 @@
+categories:
+- conversations
+conversations:
+- - Good Afternoon Chatbot.
+  - Good Afternoon how are you?
+- - Yeah I am fine.
+  - How was your day?
+- - I am feeling bored today.
+  - okay what you want me to do
+- - Play me latest trailer 
+  - <iframe width="610" height="335" src="https://www.youtube.com/embed/GJQsT-h0FTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- - Play my fav movie trailer
+  - <iframe width="610" height="335" src="https://www.youtube.com/embed/_qyw6LC5pnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- - Bubyee
+  - See you take care
